@@ -2,6 +2,8 @@ To operate, run 'RamiXorBatch.m' in MatLab/Octave, it has no dependencies. It tr
 and saves the weight matrices representing the neural network into files and produces and saves a few plots
 describing the evolution on the weights and the error function during the training progress.
 
+The file TF-XOR.py contains a TensorFlow/Keras implementation for comparison.
+
 The text below is copied from the beginning of 'RamiXorBatch.m'.
 
 
